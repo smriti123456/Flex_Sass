@@ -8,7 +8,7 @@
       - continue button  
    - Second Div  
         - heading  
-       * -  Gallery images will display on button interaction * 
+        - **Gallery images will display on button interaction** 
         - Gallery view button  
     - Third Div is divided into two vertical divs  
       - About section 
